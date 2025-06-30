@@ -126,7 +126,8 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 - FastAPI for model serving
 
 ### Tools used:
-- Cloud hosting using render for backend and Ml model.
+- Cloud hosting using render for backend and ML model.
+- 
 ---
 
 ## ⚠️ App Permissions
