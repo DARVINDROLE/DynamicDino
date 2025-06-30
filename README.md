@@ -41,7 +41,7 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 |-------------|-----------------------------------------------------------------------------|
 | 📱 Android App | Kotlin app using Jetpack Compose for UI & Retrofit for APIs              |
 | 🔁 Backend API | FastAPI app that handles OAuth (Google, Spotify), collects and formats data |
-| 🤖 ML Model    | FastAPI microservice using scikit-learn to predict mood & wellbeing      |
+| 🤖 ML Model    | FastAPI microservice using scikit-learn to predict mood, wellbeing and personalize user experience.     |
 
 ---
 
