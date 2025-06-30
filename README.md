@@ -1,4 +1,4 @@
-# 🌿 WnW – Wellness Within
+# WnW – Wellness Within
 
 **WnW (Wellness Within)** is a smart emotional wellbeing app that helps users understand how their physical activity, screen time, sleep, and music choices affect their mood. It uses Google Fit, screen usage data, and Spotify listening behavior to calculate a personalized wellbeing score and generate health tips — powered by a machine learning model.
 
@@ -51,10 +51,9 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 - Built using Kotlin + Jetpack Compose
 - OAuth login using browser flow via FastAPI backend
 - Collects:
-  - 💥 Sleep duration
-  - 🏃‍♂️ Steps, heart rate, calories (Google Fit)
-  - 📱 Screen time (Instagram, YouTube, X, Reddit via `UsageStatsManager`)
-  - 🎵 Spotify audio features
+  -  Sleep duration
+  -  Steps, heart rate, calories (Google Fit)
+  -  Screen time (Instagram, YouTube, X, Reddit via `UsageStatsManager`)
 - Displays:
   - Emoji-based mood
   - Wellbeing score (0–100)
@@ -66,9 +65,7 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 - Fetches:
   - Sleep data via Sessions API
   - Steps, heart rate, calories via Fitness API
-  - Recently played Spotify songs + audio features
 - Computes:
-  - Avg valence, energy, danceability from Spotify
   - Total screen time and `socialTime` (sum of app durations)
   - Structured JSON to send to ML model
 - Returns formatted insights to Android app
@@ -90,9 +87,9 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 > _(Insert current screenshots of the WnW Android app here – login, dashboard, emotion score screen, graphs, etc.)_
 
 <p align="center">
-  <img src="assets/current_app_ui_1.jpg" width="250"/>
-  <img src="assets/current_app_ui_2.jpg" width="250"/>
-  <img src="assets/current_app_ui_3.jpg" width="250"/>
+  <img src="assests/current_app_ui_1.jpg" width="250"/>
+  <img src="assests/current_app_ui_2.jpg" width="250"/>
+  <img src="assests/current_app_ui_3.jpg" width="250"/>
 </p>
 
 ### Proposed UI Design
@@ -100,7 +97,7 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 > _(Insert future/proposed UI mockups here)_
 
 <p align="center">
-  <img src="assets/proposed_app_ui.jpg" width="300"/>
+  <img src="assests/proposed_app_ui.jpg" width="300"/>
 </p>
 
 ---
@@ -109,7 +106,7 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 
 > _(Insert flowchart image here)_
 
-![System Flowchart](assets/flowchart.jpg)
+![System Flowchart](assests/flowchart.jpg)
 
 ---
 
@@ -162,7 +159,7 @@ Watch how WnW works in this short walkthrough video:
 - 📸 Use facial expression tracking every 15 minutes (secured via blockchain)
 - 🏥 Add user medical condition & medication tracking
 - 🗓️ Weekly summary + notifications when wellbeing score is low
-
+- Spotify Integration for music analysis 
 ---
 
 ## 👨‍💼 Team
@@ -171,6 +168,6 @@ Watch how WnW works in this short walkthrough video:
 - **Android Frontend:** Laukik Kande  
 - **Backend & APIs:** Yashovardhan Poddar  
 
-Made for Samsung Solve for Tomorrow 2025
+Made with for Samsung Solve for Tomorrow 2025
 
 ---
