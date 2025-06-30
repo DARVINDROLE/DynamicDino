@@ -134,7 +134,7 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 
 ## 📦 APK Download
 
-🔗 [Download WnW.apk]([https://your-link.com/WnW.apk](https://github.com/DARVINDROLE/DynamicDino/raw/refs/heads/main/app-debug.apk))
+🔗 [Download WnW.apk]((https://github.com/DARVINDROLE/DynamicDino/raw/refs/heads/main/app-debug.apk))
 
 > 📱 Allow install from unknown sources. Recommended for Android 9+.
 
