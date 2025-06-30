@@ -10,7 +10,7 @@ India faces a growing mental health crisis. Most people can't spot early signs o
 
 WnW empowers users to take control of their emotional wellbeing by reflecting their habits back to them with insight — not just numbers. It turns smartphones into 24/7 culturally-aware wellness companions, offering affordable, stigma-free, and proactive mental health monitoring.
 
-> **Important:** To track fitness data accurately, please ensure your smartwatch is connected to **Google Fit** via your watch's local app (WearOS, Mi Fit, etc.).
+> **Important:** To track fitness data accurately, please ensure your smartwatch is connected to **Google Fit** via your watch's local app (WearOS, Mi Fit,Boat Crest etc.).
 
 ---
 
