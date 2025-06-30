@@ -84,8 +84,6 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 
 ### Current Screenshots
 
-> _(Insert current screenshots of the WnW Android app here – login, dashboard, emotion score screen, graphs, etc.)_
-
 <p align="center">
   <img src="assets/current_app_ui_1.jpg" width="250"/>
   <img src="assets/current_app_ui_2.jpg" width="250"/>
@@ -93,8 +91,6 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 </p>
 
 ### Proposed UI Design
-
-> _(Insert future/proposed UI mockups here)_
 
 <p align="center">
   <img src="assets/proposed_app_ui.jpg" width="300"/>
@@ -104,7 +100,6 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 
 ## 🔁 App Flowchart
 
-> _(Insert flowchart image here)_
 
 ![System Flowchart](assets/flowchart.jpg)
 
