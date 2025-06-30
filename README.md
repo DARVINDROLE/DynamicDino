@@ -114,6 +114,7 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 - UsageStatsManager
 - Google Fit API
 
+
 ### Backend:
 - FastAPI
 - `google-auth`, `requests`, `httpx`
@@ -124,6 +125,8 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 - joblib for model persistence
 - FastAPI for model serving
 
+### Tools used:
+- Cloud hosting using render for backend and Ml model.
 ---
 
 ## ⚠️ App Permissions
@@ -154,7 +157,7 @@ Watch how WnW works in this short walkthrough video:
 - 📸 Use facial expression tracking every 15 minutes (secured via blockchain)
 - 🏥 Add user medical condition & medication tracking
 - 🗓️ Weekly summary + notifications when wellbeing score is low
-- Spotify Integration for music analysis 
+- 🎵 Spotify Integration for music analysis 
 ---
 
 ## 👨‍💼 Team
