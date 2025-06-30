@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Why WnW?
+## Why WnW?
 
 India faces a growing mental health crisis. Most people can't spot early signs of stress or depression, therapy is costly or unavailable, and stigma stops them from seeking help. Health data is scattered across apps, leaving no clear picture of overall mental well-being — especially in rural communities.
 
@@ -87,9 +87,9 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 > _(Insert current screenshots of the WnW Android app here – login, dashboard, emotion score screen, graphs, etc.)_
 
 <p align="center">
-  <img src="assests/current_app_ui_1.jpg" width="250"/>
-  <img src="assests/current_app_ui_2.jpg" width="250"/>
-  <img src="assests/current_app_ui_3.jpg" width="250"/>
+  <img src="assets/current_app_ui_1.jpg" width="250"/>
+  <img src="assets/current_app_ui_2.jpg" width="250"/>
+  <img src="assets/current_app_ui_3.jpg" width="250"/>
 </p>
 
 ### Proposed UI Design
@@ -97,7 +97,7 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 > _(Insert future/proposed UI mockups here)_
 
 <p align="center">
-  <img src="assests/proposed_app_ui.jpg" width="300"/>
+  <img src="assets/proposed_app_ui.jpg" width="300"/>
 </p>
 
 ---
@@ -106,7 +106,7 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 
 > _(Insert flowchart image here)_
 
-![System Flowchart](assests/flowchart.jpg)
+![System Flowchart](assets/flowchart.jpg)
 
 ---
 
