@@ -127,7 +127,6 @@ WnW makes mental health tracking accessible and stigma-free for Indians by lever
 
 ### Tools used:
 - Cloud hosting using render for backend and ML model.
-- 
 ---
 
 ## ⚠️ App Permissions
@@ -167,6 +166,6 @@ Watch how WnW works in this short walkthrough video:
 - **Android Frontend:** Laukik Kande  
 - **Backend & APIs:** Yashovardhan Poddar  
 
-Made with for Samsung Solve for Tomorrow 2025
+Made for Samsung Solve for Tomorrow 2025
 
 ---
